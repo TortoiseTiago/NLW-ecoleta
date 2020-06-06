@@ -38,6 +38,9 @@ form {
 
   max-width: 720px;
 }
+fieldset {
+  margin: 0 auto;
+}
 
 form h1 {
   font-size: 36px;
@@ -52,6 +55,7 @@ form legend {
 }
 form legend h2 {
   font-size: 24px;
+  margin-bottom: 24px;
 }
 form .field-group {
   display: flex;
